@@ -1,0 +1,27 @@
+{
+  "name": "infographic-screenshot-website",
+  "version": "1.0.0",
+  "description": "A website that displays an infographic and allows users to take screenshots",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "infographic",
+    "screenshot",
+    "pinterest",
+    "marketing",
+    "nodejs",
+    "express",
+    "puppeteer"
+  ]
+}
